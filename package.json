@@ -1,0 +1,22 @@
+{
+  "name": "vue-elehover",
+  "version": "1.0.0",
+  "description": "vue",
+  "main": "elehover.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ResJay/vue-elehover.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "resjay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ResJay/vue-elehover/issues"
+  },
+  "homepage": "https://github.com/ResJay/vue-elehover#readme"
+}
