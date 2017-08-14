@@ -1,5 +1,8 @@
 # vue-elehover
 vue点击特效插件
+
+![](https://github.com/ResJay/vue-elehover/blob/master/GIF1.gif?raw=true)
+
 ## 安装
 
 #### npm下载
