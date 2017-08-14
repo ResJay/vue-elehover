@@ -22,9 +22,6 @@ Toast.install = function (Vue, options) {
     }
     function created(ele) {
       var a = document.createElement("canvas")
-      var x1 = Math.floor(Math.random() * (255 - 0 + 1) + 0);
-      var y1 = Math.floor(Math.random() * (255 - 0 + 1) + 0);
-      var z1 = Math.floor(Math.random() * (255 - 0 + 1) + 0);
       var raf;
       var requestAnimFrame = function () {
         return (
@@ -39,6 +36,9 @@ Toast.install = function (Vue, options) {
       }()   //判断requestAnimFrame
       if(ele) {
         ele.addEventListener('click', function (ev) {
+          var x1 = Math.floor(Math.random() * (255 - 0 + 1) + 0);
+          var y1 = Math.floor(Math.random() * (255 - 0 + 1) + 0);
+          var z1 = Math.floor(Math.random() * (255 - 0 + 1) + 0);
           var d=document
           var x = ev.offsetX
           var y = ev.offsetY
