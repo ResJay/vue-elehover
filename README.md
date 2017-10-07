@@ -3,7 +3,7 @@ vue点击特效插件
 
 ![](https://github.com/ResJay/vue-elehover/blob/master/GIF1.gif?raw=true)
 
-####笔记
+#### 笔记
 ```
 以后写特效时请记得先想好再写
 var requestAnimFrame = function () {
