@@ -37,7 +37,7 @@ var requestAnimFrame = function () {
 
 ## 使用
 
-* this.$elehover(e)  ||  Vue.$elehover(e)
+* this.$eleHover(e)  ||  Vue.$eleHover(e)
 
 * 参数e为字符串格式  可以是所有标签名 如 "a"  
   可以是所有class或者ID  "classname" ; "idName"
