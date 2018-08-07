@@ -44,7 +44,7 @@ Toast.install = function (Vue, options) {
           var y = ev.offsetY
           var cc = d.getElementsByClassName("canvas-console")
           remove(cc)
-          console.log(x + ":" + y)
+       
           var b = {
             x: x,
             y: x,
